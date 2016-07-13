@@ -1,0 +1,5 @@
+args==0.1.0
+click==6.6
+clint==0.5.1
+ruffus==2.6.3
+six==1.10.0
